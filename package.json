@@ -1,0 +1,19 @@
+{
+  "name": "zenn-public",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "new": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuki/zenn-public.git"
+  },
+  "author": "uuki <uuki.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.141"
+  }
+}
